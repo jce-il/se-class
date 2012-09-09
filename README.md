@@ -12,6 +12,10 @@ Repository for JCE software engineering course materials
 
 - [פורום - פיאצה](https://piazza.com/class#winter2013/se10014)
  
+Trying to embed a google doc....
+<iframe src="http://j.mp/se10089"></iframe>
+
+
 <html>
   <head>
 		<title>HTML Online Editor Sample</title>
