@@ -8,13 +8,341 @@ Repository for JCE software engineering course materials
 וכן ויקי לתיאום זמני פגישות וסקרים במהלך הקורס
 </p>
 
-- [פגישות](Meetings)
+- [פגישות](wiki/Meetings)
 
 - [פורום - פיאצה](https://piazza.com/class#winter2013/se10014)
  
 Trying to embed a google doc....
 <iframe src="http://j.mp/se10089"></iframe>
 
+<table cellpadding="0" cellspacing="0" class="c17">
+        <tbody>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">W</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Submission | personal submission</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Lecture</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Workshop</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Lab</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c4"><span class="c5">21/10</span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">1</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Introduction</span></p>
+                    <p class="c0 c4"><span class="c5">- SE intro</span></p>
+                    <p class="c0 c4"><span class="c5">- Syllabus</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5 c9">Project Demo</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Writing a Proposal!</span></p>
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">2</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Proposal (2-3 team)</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Teams &amp; Processes</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Project Proposal Presentations</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">github (without git)</span></p>
+                    <p class="c0 c4"><span class="c5">Wiki?</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">3</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Inception</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Requirements</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5 c9">Req. game</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">req. demo</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">4</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">SRS (small uc)</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Design &amp; Arch.</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5 c9">CRC Cards</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">req. review</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">5</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">SDS (crc example)</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Version Control</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Git workshop</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">git workshop2</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">6</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">(trygit badge)</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Estimation, Planning</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5 c9">Poker Planning</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">pivotal?</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">7</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">ZFR</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Agile / Scrum</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Game?</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">&#1495;&#1504;&#1493;&#1499;&#1492;</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">8</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Iteration 1</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Testing I</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5 c9">TDD ex.</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">TDD</span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">9</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">(unit testing ex.)</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Testing II</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">10</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Iteration 2</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Guest?/OOD I</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Design Review?</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">11</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">OOD II</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">12</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Iteration 3</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">UX</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Code Review</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">13</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Tools II, Refactoring</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+            <tr>
+                <td class="c7">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+                <td class="c10">
+                    <p class="c0 c4"><span class="c5">14</span></p>
+                </td>
+                <td class="c12">
+                    <p class="c0 c4"><span class="c5">Iteration 4</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Summary</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c4"><span class="c5">Final Presentations</span></p>
+                </td>
+                <td class="c3">
+                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                </td>
+            </tr>
+        </tbody>
+    </table>
 
 <html>
   <head>
