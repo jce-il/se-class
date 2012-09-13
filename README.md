@@ -8,10 +8,16 @@ Repository for JCE software engineering course materials
 וכן ויקי לתיאום זמני פגישות וסקרים במהלך הקורס
 </p>
 
+- [צוותים ופרויקטים](wiki/Projects)
+
 - [פגישות](wiki/Meetings)
 
 - [פורום - פיאצה](https://piazza.com/class#winter2013/se10014)
- 
+
+- [פרויקטים משנים קודמות](wiki/PastProjects)
+
+- [סילבוס](downloads/syllabus.pdf)
+
 Trying to embed a google doc....
 <iframe src="http://j.mp/se10089"></iframe>
 
