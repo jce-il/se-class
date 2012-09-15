@@ -62,8 +62,9 @@ Trying to embed a google doc....
                     <p class="c0 c4"><span class="c5 c9">Project Demo</span></p>
                 </td>
                 <td class="c3">
-                    <p class="c0 c4"><span class="c5">Writing a Proposal!</span></p>
-                    <p class="c0 c6 c4"><span class="c5"></span></p>
+                    <!--p class="c0 c4"><span class="c5">Writing a Proposal!</span></p-->
+                   <a href="http://www.google.com/">Writing a Proposal!</a>
+                   <p class="c0 c6 c4"><span class="c5"></span></p>
                 </td>
             </tr>
             <tr>
