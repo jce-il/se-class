@@ -63,7 +63,7 @@ Trying to embed a google doc....
                 </td>
                 <td class="c3">
                     <!--p class="c0 c4"><span class="c5">Writing a Proposal!</span></p-->
-                   <a href="http://www.google.com/">Writing a Proposal!</a>
+                   <a href="https://github.com/downloads/jce-il/se-class/se_lab1_proposal.pptx">Writing a Proposal!</a>
                    <p class="c0 c6 c4"><span class="c5"></span></p>
                 </td>
             </tr>
