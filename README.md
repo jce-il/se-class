@@ -8,13 +8,13 @@ Repository for JCE software engineering course materials
 וכן ויקי לתיאום זמני פגישות וסקרים במהלך הקורס
 </p>
 
-- [צוותים ופרויקטים](./wiki/Projects)
+- [צוותים ופרויקטים](https://github.com/jce-il/se-class/wiki/Projects)
 
-- [פגישות](./wiki/Meetings)
+- [פגישות](https://github.com/jce-il/se-class/wiki/Meetings)
 
 - [פורום - פיאצה](https://piazza.com/class#winter2013/se10014)
 
-- [פרויקטים משנים קודמות](./wiki/PastProjects)
+- [פרויקטים משנים קודמות](https://github.com/jce-il/se-class/wiki/PastProjects)
 
 - [סילבוס](downloads/syllabus.pdf)
 
