@@ -7,6 +7,7 @@ Repository for JCE software engineering course materials
 מאגר חומרים לקורס הנדסת תוכנה במכללה להנדסה ירושלים
 וכן ויקי לתיאום זמני פגישות וסקרים במהלך הקורס
 </p>
+- [לוח זמנים וחומרים](https://github.com/jce-il/se-class/wiki/Schedule)
 
 - [צוותים ופרויקטים](https://github.com/jce-il/se-class/wiki/Projects)
 
