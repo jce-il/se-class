@@ -17,4 +17,4 @@ Repository for JCE software engineering course materials
 
 - [פרויקטים משנים קודמות](https://github.com/jce-il/se-class/wiki/PastProjects)
 
-- [סילבוס](downloads/syllabus.pdf)
+- [סילבוס](https://github.com/downloads/jce-il/se-class/se13a-syllabus.pdf)
