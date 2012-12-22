@@ -10,7 +10,7 @@ namespace PowerTodoApp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+            ViewBag.Message = "PowerTodo (makes your friend) work for you...";
 
             return View();
         }
