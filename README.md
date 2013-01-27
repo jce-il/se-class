@@ -21,7 +21,3 @@ Repository for JCE software engineering course materials
 
 - [ציונים] ()
 
-
-
-====== זמני ======
-- [רישום בחינת מעבדה קורס תקשורת מחשבים] (https://github.com/jce-il/se-class/wiki/%D7%A8%D7%99%D7%A9%D7%95%D7%9D-%D7%91%D7%97%D7%99%D7%A0%D7%AA-%D7%9E%D7%A2%D7%91%D7%93%D7%94--%D7%A7%D7%95%D7%A8%D7%A1-%D7%AA%D7%A7%D7%A9%D7%95%D7%A8%D7%AA-%D7%9E%D7%97%D7%A9%D7%91%D7%99%D7%9D)
