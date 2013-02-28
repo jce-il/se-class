@@ -13,11 +13,10 @@ Repository for JCE software engineering course materials
 
 - [פגישות](https://github.com/jce-il/se-class/wiki/Meetings)
 
-- [פורום - פיאצה](https://piazza.com/class#winter2013/se10014)
+- [פורום - פיאצה](https://piazza.com/class#spring2013/se10014)
 
 - [פרויקטים משנים קודמות](https://github.com/jce-il/se-class/wiki/PastProjects)
 
-- [סילבוס](https://github.com/downloads/jce-il/se-class/se13a-syllabus.pdf)
+- [סילבוס](https://github.com/jce-il/se-class/blob/master/downloads/se13b-syllabus.pdf?raw=true)
 
-- [ציונים] ()
 
