@@ -25,11 +25,6 @@ Repository for JCE software engineering course materials
 Addition
 ========
 
-The calculator performs basic addition.
-
-| Scenario     | X            | Y            | X + Y      |
-|--------------|-------------:|-------------:|-----------:|
-| simple add   | 1            | 2            | 3          |
-| zero left    | 0            | 2            | 2          |
-| zero right   | 1            | 0            | 1          |
-| zero both    | 0            | 0            | 0          |
+| W.Date   |  Project   | Perosnal | Lecture    | Lab    | Targil    | Project Submission | 
+|----------|------------|----------|------------|--------|-----------|--------------------|
+| 1. 13/10 | 1. Proposal|Coruse registration | Introduction | P1 | Server Side Programming | - |
