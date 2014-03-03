@@ -1,3 +1,4 @@
+git status
 git add -A
 git commit -m "update site"
 git checkout gh-pages
