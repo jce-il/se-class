@@ -1,5 +1,5 @@
+REM git pull
 git status
-git pull
 git add -A
 git commit -m "update site"
 git checkout gh-pages
