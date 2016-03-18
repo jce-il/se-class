@@ -1,17 +1,3 @@
-README
-Name:
-    Itamar Sharify
-    ID: 301589305
-    Username: itamarsh
+###Angular Part Two 
 
-Submission:
-    This is the first Excersize Submitted in Machine Learning Course
-
-Files Submitted:
-    * ex11.py - Stack Managment
-    * ex12.py - Lists Comparisons using zip function
-    * ex13.py - Interger validations using filter function
-
-INFO:
-    Each file is commented and has docstrings as wel as 'main'
-    The code design to be as optimal as i can, please share you thought if otherwise 
+####Code for the second Angular presentation
