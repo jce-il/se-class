@@ -1,0 +1,15 @@
+{
+  "name": "angularjs",
+  "version": "1.0.0",
+  "description": "README\r Name:\r     Itamar Sharify\r     ID: 301589305\r     Username: itamarsh",
+  "main": "jquery-2.1.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
