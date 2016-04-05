@@ -1,0 +1,18 @@
+<div>
+    <form ng-submit="form.submitForm()">
+        Name: {{form.user.name}}
+
+        <md-input-container layout="row">
+            <label>Name</label>
+            <input type="text" ng-model="form.user.name" required >
+        </md-input-container>
+
+        Enter Mail:
+        <md-input-container layout="row">
+            
+        <input ng-model="form.user.mail" type="email" required>
+        </md-input-container>
+        <md-button type="submit" class="md-raised"  >Submit</md-button>
+
+    </form>
+</div>
