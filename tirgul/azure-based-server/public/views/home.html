@@ -1,0 +1,24 @@
+<div id="container" ng-style="{'background-image': 'url('+ main.image + ')'}">
+    <div id="form">
+        <nav>
+            <div class="nav-wrapper">
+                <div class="input-field">
+                    <input id="search" class="active" type="search" required>
+                    <label for="search"><i class="material-icons">search</i>
+                   </label>
+                    <i class="material-icons"><i class="material-icons">location_searching</i></i>
+                </div>
+            </div>
+        </nav>
+       
+        <md-input-container flex="25" layout="row">
+            <input type="search" ng-model="main.length" placeholder="House Length">
+        </md-input-container>
+
+        <md-input-container flex="25" layout="row">
+            <input ng-model="main.width" placeholder="House Width">
+        </md-input-container>
+        <md-slider flex="25"ng-model="myValue" min="5" max="500">
+        </md-slider>
+    </div>
+</div>
