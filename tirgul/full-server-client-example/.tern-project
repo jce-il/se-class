@@ -1,0 +1,26 @@
+{
+    "ecmaVersion": 6,
+    "libs": [
+        "browser",
+        "jquery"
+    ],
+    "loadEagerly": [
+        "D:\\My Files\\Git\\se-class\\tirgul\\full-server-client-example\\public"
+    ],
+    "dontLoad": [
+        "D:\\My Files\\Git\\se-class\\tirgul\\full-server-client-example\\node_modules\\*"
+    ],
+    "plugins": {
+        "complete_strings": {},
+        "node": {},
+        "lint": {},
+        "angular": {},
+        "requirejs": {},
+        "modules": {},
+        "es_modules": {},
+        "node-express": {},
+        "doc_comment": {
+            "fullDocs": true
+        }
+    }
+}

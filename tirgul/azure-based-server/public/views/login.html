@@ -1,0 +1,28 @@
+<div>
+    <form ng-submit="submitForm()">
+        Name: {{form.user.name}}
+
+        <md-input-container layout="row">
+            <label>Name</label>
+            <input type="text" ng-model="user.name"  >
+        </md-input-container>
+
+        Sure Name:
+        <md-input-container layout="row">
+            
+        <input ng-model="user.surename" type="text" >
+        </md-input-container>
+        <button class="md-raised" type="submit">Submit</button>
+
+    </form>
+        <button ng-click='delete()'>Remove From Users</button>
+
+        <button ng-click='getAllUsers()'>Show Existing Users</button>
+    <span>{{$scope.error}}</span>
+       <ul>
+        <li ng-repeat="user in users">
+            {{user.name}} {{user.sureName}}
+            
+        </li>
+    </ul>
+</div>
