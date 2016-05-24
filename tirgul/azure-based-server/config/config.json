@@ -1,0 +1,12 @@
+{
+	"db": {
+		"domain": "www.example.com",
+		"user": "testdb",
+		"password": "testdb",
+		"appName": "jce16",
+		"mongodb": {
+			"host": "ds032319.mlab.com",
+			"port": 32319
+		}
+	}
+}
