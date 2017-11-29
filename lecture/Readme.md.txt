@@ -1,0 +1,1 @@
+Lecture slides moved to: https://github.com/jce-il/se-class-materials/tree/master/lecture
